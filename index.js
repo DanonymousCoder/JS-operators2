@@ -105,4 +105,3 @@ console.log(Y);
 	
 	// Bitwise XOR Assignment
 	console.log(yoo^=2);
-</script>

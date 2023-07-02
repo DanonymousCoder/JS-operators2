@@ -43,4 +43,5 @@ console.log(Y);
 Y -= 1;
 console.log(Y);
 // multiplication assignment
-Y *=
+Y *= 1;
+console.log(Y);

@@ -39,3 +39,8 @@ console.log(Y);
 // addition assignment
 Y += 1;
 console.log(Y);
+// subtraction assignment
+Y -= 1;
+console.log(Y);
+// multiplication assignment
+Y *=

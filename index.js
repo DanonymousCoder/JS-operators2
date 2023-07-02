@@ -7,3 +7,5 @@ c = 5 - 2;
 alert(c);
 // exponentation
 d = 5 * 2 * 3;
+alert(d);
+

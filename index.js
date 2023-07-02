@@ -60,3 +60,6 @@ console.log(Y);
 //bitwise OR assignment
 Y |= 4;
 console.log(Y);
+// bitwise XOR assignment
+Y ^= 5;
+console.log(Y);

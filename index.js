@@ -17,5 +17,10 @@ console.log(f);
 // Increment
 let a, y;
 a = 2;
-y = a++;
+y = ++a;
 console.log (y);
+// Decrement 
+let z, n ;
+z = 4;
+n = z--;
+console.log(n)

@@ -66,8 +66,8 @@ console.log(Y);
 
 
 	// Assignment Operator
-	let a = 2;
-	console.log(a);
+	var a1 = 2;
+	console.log(a1);
 	
 	// Addition Assignment Operator
 	const b= 3;

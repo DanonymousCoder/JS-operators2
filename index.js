@@ -144,4 +144,3 @@ console.log(Y);
 
 	// Less than or equal Operator
 	console.log(val1 <= val2);
-<

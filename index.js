@@ -110,4 +110,4 @@ console.log(Y);
     let b2, b3;
     b2 = 1;
     b3 = 2;
-    b2 == b3;
+    b2 == b3;// false

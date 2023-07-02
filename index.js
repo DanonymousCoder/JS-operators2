@@ -25,5 +25,5 @@ z = 4;
 n = --z;
 console.log(n);
 // unary 
-let q = +o;
+let q = '+c';
 console.log(q);

@@ -64,7 +64,7 @@ console.log(Y);
 Y ^= 5;
 console.log(Y);
 
-<script>
+
 	// Assignment Operator
 	let a = 2;
 	console.log(a);

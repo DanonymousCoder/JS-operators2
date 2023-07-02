@@ -114,3 +114,5 @@ console.log(Y);
 
     // strict equality
     b2 === b3; //false
+     //inequality
+     b2 != 4;// true

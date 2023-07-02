@@ -14,3 +14,4 @@ console.log(e);
 // multiplication
 const f = 2*2;
 console.log(f);
+// Increment

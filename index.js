@@ -23,4 +23,4 @@ console.log (y);
 let z, n ;
 z = 4;
 n = z--;
-console.log(n)
+console.log(n);

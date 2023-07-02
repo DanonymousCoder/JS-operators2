@@ -57,4 +57,6 @@ console.log(Y);
 // bitwise AND assignment
 Y &= 4;
 console.log(Y);
-//
+//bitwise OR assignment
+Y |= 4;
+console.log(Y);

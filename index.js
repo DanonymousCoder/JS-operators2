@@ -117,7 +117,7 @@ console.log(Y);
      //inequality
      b2 != 4;// true
 
-     <sc
+     <s
 	// Assigning values
 	let val1 = 5;
 	let val2 = 5;

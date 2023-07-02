@@ -47,4 +47,4 @@ Y *= 1;
 console.log(Y);
 // Exponentiation assignment
 Y **= 2;
-console.log(Y)
+console.log(Y);

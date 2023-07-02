@@ -18,3 +18,4 @@ console.log(f);
 let a, y;
 a = 2;
 y = a++;
+console.log (y);

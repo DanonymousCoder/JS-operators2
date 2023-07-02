@@ -105,3 +105,9 @@ console.log(Y);
 	
 	// Bitwise XOR Assignment
 	console.log(yoo^=2);
+
+    // equality
+    let b2, b3;
+    b2 = 1;
+    b3 = 2;
+    b2 == b3;

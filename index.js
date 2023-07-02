@@ -45,3 +45,6 @@ console.log(Y);
 // multiplication assignment
 Y *= 1;
 console.log(Y);
+// Exponentiation assignment
+Y **= 2;
+console.log(Y)

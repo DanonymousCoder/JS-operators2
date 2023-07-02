@@ -6,4 +6,4 @@ console.log(b);
 c = 5 - 2;
 console.log(c);
 // exponentation
-d = 5 * 2 * 3
+d = 5 * 2 * 3;

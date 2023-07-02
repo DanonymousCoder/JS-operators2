@@ -48,3 +48,6 @@ console.log(Y);
 // Exponentiation assignment
 Y **= 2;
 console.log(Y);
+// Division assignment
+Y /= 2;
+console.log(Y);

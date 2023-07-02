@@ -27,3 +27,6 @@ console.log(n);
 // unary 
 let q = '+c';
 console.log(q);
+// Negation
+let r = '-c';
+console.log(r)

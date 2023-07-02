@@ -36,3 +36,6 @@ console.log(Y);
 // right shift assignment
 Y >>= A
 console.log(Y);
+// addition assignment
+Y += 1;
+console.log(Y);

@@ -111,3 +111,6 @@ console.log(Y);
     b2 = 1;
     b3 = 2;
     b2 == b3;// false
+
+    // strict equality
+    b2 === b3; //false

@@ -22,5 +22,5 @@ console.log (y);
 // Decrement 
 let z, n ;
 z = 4;
-n = z--;
+n = --z;
 console.log(n);

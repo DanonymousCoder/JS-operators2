@@ -5,9 +5,9 @@ alert(b);
 // subtraction
 c = 5 - 2;
 alert(c);
-// exponentation
+// exponentiation
 d = 5 * 2 * 3;
-alert(d);
+alert('d');
 // modulos
-e = 7 % 2;
+const e = 7 % 2;
 alert ('e');

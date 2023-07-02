@@ -15,3 +15,6 @@ console.log(e);
 const f = 2*2;
 console.log(f);
 // Increment
+let a, y;
+a = 2;
+y = a++;

@@ -24,3 +24,6 @@ let z, n ;
 z = 4;
 n = --z;
 console.log(n);
+// unary 
+let q = +o;
+console.log(q);

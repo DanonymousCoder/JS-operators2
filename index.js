@@ -9,4 +9,4 @@ alert(c);
 d = 5 * 2 * 3;
 alert(d);
 // modulos
-e = 
+e = 7 % 2;

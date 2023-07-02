@@ -33,3 +33,6 @@ console.log(r);
 // left shift assignment
 Y <<= A 
 console.log(Y);
+// right shift assignment
+Y >>= A
+console.log(Y);

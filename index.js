@@ -29,4 +29,4 @@ let q = '+c';
 console.log(q);
 // Negation
 let r = '-c';
-console.log(r)
+console.log(r);

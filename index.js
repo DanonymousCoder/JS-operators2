@@ -51,4 +51,6 @@ console.log(Y);
 // Division assignment
 Y /= 2;
 console.log(Y);
-//
+// Modulus assignment
+Y %= 3;
+console.log(Y)

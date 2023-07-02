@@ -30,3 +30,6 @@ console.log(q);
 // Negation
 let r = '-c';
 console.log(r);
+// left shift assignment
+Y <<= A 
+console.log(Y);
